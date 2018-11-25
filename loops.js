@@ -4,5 +4,6 @@ for (i = 0; i < 25; i++) {
   return "I am 1 strange loop"
   } else {
   return `I am ${i} strange loop ${i === 0 ? '' : 's'}`
+  }
  }
 }
